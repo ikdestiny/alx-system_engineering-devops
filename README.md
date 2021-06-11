@@ -1,1 +1,2 @@
--This project is about writting scripts to print result-
+#!/bin/bash
+pwd
