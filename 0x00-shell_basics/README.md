@@ -1,1 +1,0 @@
--This is the project repo the cantain all the scripts-
